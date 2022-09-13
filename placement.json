@@ -1,0 +1,23 @@
+[{
+    "company":"capgemini",
+    "date":"2020-10-2",
+    "appearedstudents": "user1,user3"
+      
+},
+{
+    "company":"appglide",
+    "date":"2020-10-20",
+    "appearedstudents": "user2,user1"
+      
+},
+{
+    "company":"inf0sys",
+    "date":"2020-10-1",
+    "appearedstudents": "user1"
+      
+},
+{
+    "company":"wipro",
+    "date":"2020-10-10",
+    "appearedstudents": "user2,user3"
+}]

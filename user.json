@@ -1,0 +1,47 @@
+[
+    {
+        "name": "user 1",
+        "email": "user1@gmail.com",
+        "phone no": 9876456677,
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "codekata": [
+            {
+                "Input/Output": 30,
+                "Beginner": 30,
+                "Array": 34
+            }
+        ],
+        "attendance": "54%"
+    },
+    {
+        "name": "user 2",
+        "email": "user2@gmail.com",
+        "phone no": 4567789123,
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "codekata": [
+            {
+                "Input/Output": 20,
+                "Beginner": 10,
+                "Array": 44
+            }
+        ],
+        "attendance": "84%"
+    },
+    {
+        "name": "user 3",
+        "email": "user3@gmail.com",
+        "phone no": 12345098765,
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "codekata": [
+            {
+                "Input/Output": 10,
+                "Beginner": 30,
+                "Array": 34
+            }
+        ],
+        "attendance": "34%"
+    }
+]
